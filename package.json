@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "nats.ws": "^1.23.0"
+  }
+}
